@@ -1,1 +1,1 @@
-# Covid-19-Deaths-Cases-Analysis
+in my project analyzing COVID-19 data, I studied the relationships between variables such as deaths, cases, tests, population, and active cases. I discovered fascinating patterns and insights, including the correlation between testing rates and case numbers, and the surprising impact of population density on the spread of the virus
